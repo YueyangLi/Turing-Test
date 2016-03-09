@@ -1,0 +1,26 @@
+
+<html>
+<body>
+
+<h1>Turing Test</h1>
+
+<h2> Introduction </h2>
+<p>
+The Turing Test is a test developed by Alan Turing in 1950.
+It was a test of a machine's ability to exhibit intellient behavior equivalent to, or indistinguishable form, that of a human.
+</p>
+
+<h2> Alan Turing </h2>
+<p>
+Alan Turing is a researcher in the UK, who had been exploring "mahcine intelligence" for up to ten years.
+<a href = "https://en.wikipedia.org/wiki/Alan_Turing">Alan Turing</a>
+</p>
+
+<h2>A photo of Alan Turing</h2>
+<img src="https://en.wikipedia.org/wiki/Alan_Turing#/media/File:Alan_Turing_Aged_16.jpg" alt ="Alan Turing, wikipedia" tile="Alan Tuing, wikipedia"/>
+
+<h2> Video about Turing Test</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXx-PpEBR7k" frameborder="0" allowfullscreen></iframe>
+
+</body>
+</html>
